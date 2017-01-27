@@ -1,0 +1,9 @@
+C:\Users\jesper.knudsen\Documents\Skolkatalog\Helloworld1\Helloworld1\bin\Debug\Helloworld1.exe.config
+C:\Users\jesper.knudsen\Documents\Skolkatalog\Helloworld1\Helloworld1\bin\Debug\Helloworld1.exe
+C:\Users\jesper.knudsen\Documents\Skolkatalog\Helloworld1\Helloworld1\bin\Debug\Helloworld1.pdb
+C:\Users\jesper.knudsen\Documents\Skolkatalog\Helloworld1\Helloworld1\obj\Debug\Helloworld1.csprojResolveAssemblyReference.cache
+C:\Users\jesper.knudsen\Documents\Skolkatalog\Helloworld1\Helloworld1\obj\Debug\Helloworld1.exe
+C:\Users\jesper.knudsen\Documents\Skolkatalog\Helloworld1\Helloworld1\obj\Debug\Helloworld1.pdb
+C:\Users\jesper.knudsen\Desktop\Su16b-HelloWorld\Helloworld1\bin\Debug\Helloworld1.exe.config
+C:\Users\jesper.knudsen\Desktop\Su16b-HelloWorld\Helloworld1\obj\Debug\Helloworld1.exe
+C:\Users\jesper.knudsen\Desktop\Su16b-HelloWorld\Helloworld1\obj\Debug\Helloworld1.pdb
